@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.3">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="3856" dy="1640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3250" dy="1312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="PL0G8_uLE7mK1jj2Irlm-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=none;endFill=0;startArrow=classic;startFill=1;strokeWidth=4;" edge="1" parent="1" source="PL0G8_uLE7mK1jj2Irlm-18" target="PL0G8_uLE7mK1jj2Irlm-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PL0G8_uLE7mK1jj2Irlm-18" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;arcSize=15;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="PL0G8_uLE7mK1jj2Irlm-18" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#00FF00;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;arcSize=15;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="155" y="318" width="320" height="220" as="geometry" />
         </mxCell>
         <mxCell id="NS8gQTfLll2vz3Bp2NVF-142" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;STM32F103&lt;/b&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;opacity=60;" parent="1" vertex="1">
